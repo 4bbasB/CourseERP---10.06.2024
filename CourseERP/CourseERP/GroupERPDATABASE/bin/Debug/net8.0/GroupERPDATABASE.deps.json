@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GroupERPDATABASE/1.0.0": {
+        "dependencies": {
+          "CourseERP.Core": "1.0.0"
+        },
+        "runtime": {
+          "GroupERPDATABASE.dll": {}
+        }
+      },
+      "CourseERP.Core/1.0.0": {
+        "runtime": {
+          "CourseERP.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroupERPDATABASE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CourseERP.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

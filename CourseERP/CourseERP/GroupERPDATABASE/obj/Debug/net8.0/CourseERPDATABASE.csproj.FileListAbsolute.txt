@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\bin\Debug\net8.0\CourseERPDATABASE.deps.json
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\bin\Debug\net8.0\CourseERPDATABASE.dll
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\bin\Debug\net8.0\CourseERPDATABASE.pdb
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\bin\Debug\net8.0\CourseERP.Core.dll
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\bin\Debug\net8.0\CourseERP.Core.pdb
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\obj\Debug\net8.0\CourseERPDATABASE.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\obj\Debug\net8.0\CourseERPDATABASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\obj\Debug\net8.0\CourseERPDATABASE.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\obj\Debug\net8.0\CourseERPDATABASE.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\obj\Debug\net8.0\CourseERPDATABASE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\obj\Debug\net8.0\CourseERPDATABASE.sourcelink.json
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\obj\Debug\net8.0\CourseER.A850FCA6.Up2Date
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\obj\Debug\net8.0\CourseERPDATABASE.dll
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\obj\Debug\net8.0\refint\CourseERPDATABASE.dll
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\obj\Debug\net8.0\CourseERPDATABASE.pdb
+C:\Users\Lenovo\Desktop\Programming\CourseERP\CourseERP\GroupERPDATABASE\obj\Debug\net8.0\ref\CourseERPDATABASE.dll
